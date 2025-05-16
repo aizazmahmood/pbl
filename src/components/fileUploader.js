@@ -1,7 +1,7 @@
 import AWS from 'aws-sdk';
 import React, { useState } from 'react';
 
-const S3_BUCKET = 'summipbl';  
+const S3_BUCKET = 'aizazpbl';  
 const REGION = 'us-east-1';             
 
 AWS.config.update({
